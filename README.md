@@ -27,6 +27,7 @@ This project allows users to add tasks, mark them as completed, delete tasks, an
 
 ## 📂 Project Structure
 
+```
 To-Do-App
 │
 ├── index.html
@@ -34,9 +35,10 @@ To-Do-App
 ├── script.js
 │
 └── images
-├── checked.png
-├── unchecked.png
-└── todo-icon.png
+    ├── checked.png
+    ├── unchecked.png
+    └── todo-icon.png
+```
 
 
 ---
