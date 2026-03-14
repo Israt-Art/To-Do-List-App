@@ -34,10 +34,10 @@ To-Do-App
 ├── style.css
 ├── script.js
 │
-└── screenshots
-    ├── ui.png
-    ├── add-task.png
-    └── completed.png
+└── images
+    ├── checked.png
+    ├── unchecked.png
+    └── todo-icon.png
 ```
 
 ---
