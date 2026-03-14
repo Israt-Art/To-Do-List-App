@@ -71,11 +71,14 @@ git clone https://github.com/Israt-Art/To-Do-List-App.git
 ### 🖥️ App Interface
 ![App Interface](screenshots/ui.png)
 
+
 ### ➕ Adding a Task
 ![Add Task](screenshots/add-task.png)
 
+
 ### ✅ Completed Task
 ![Completed Task](screenshots/completed.png)
+
 
 ---
 
