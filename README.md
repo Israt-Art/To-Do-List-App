@@ -64,11 +64,16 @@ git clone https://github.com/Israt-Art/To-Do-List-App.git
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-You can add a screenshot of the project here after uploading the project to GitHub.
+### 🖥️ App Interface
+![App UI](screenshots/ui.png)
 
-Example:
+### ➕ Adding Tasks
+![Add Task](screenshots/add-task.png)
+
+### ✅ Completed Task
+![Completed Task](screenshots/completed.png)
 
 ---
 
