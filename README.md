@@ -7,11 +7,11 @@ This project allows users to add tasks, mark them as completed, delete tasks, an
 
 ## 🚀 Features
 
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- ❌ Delete tasks
-- 💾 Tasks are saved automatically using **Local Storage**
-- 🎨 Clean and simple user interface
+- ➕ Add new tasks  
+- ✅ Mark tasks as completed  
+- ❌ Delete tasks  
+- 💾 Tasks are saved automatically using **Local Storage**  
+- 🎨 Clean and simple user interface  
 - ⚡ Fast and lightweight (pure JavaScript)
 
 ---
@@ -38,28 +38,31 @@ To-Do-App
     ├── ui.png
     ├── add-task.png
     └── completed.png
-
+```
 
 ---
 
 ## ⚙️ How the Application Works
 
-1. User enters a task in the input field.
-2. Clicking the **Add** button creates a new task.
-3. Clicking a task marks it as **completed**.
-4. Clicking the **× button** deletes the task.
+1. User enters a task in the input field.  
+2. Clicking the **Add** button creates a new task.  
+3. Clicking a task marks it as **completed**.  
+4. Clicking the **× button** deletes the task.  
 5. Tasks are stored in **Local Storage**, so they remain even after refreshing the page.
 
 ---
 
 ## 💻 How to Run This Project
 
-1. Clone the repository:
+1️⃣ Clone the repository
+
+```
 git clone https://github.com/Israt-Art/To-Do-List-App.git
+```
 
-2. Open the project folder.
+2️⃣ Open the project folder.
 
-3. Run the project by opening **index.html** in any web browser.
+3️⃣ Run the project by opening **index.html** in any web browser.
 
 ---
 
@@ -74,13 +77,15 @@ git clone https://github.com/Israt-Art/To-Do-List-App.git
 ### ✅ Completed Task
 ![Completed Task](screenshots/completed.png)
 
+---
+
 ## 📈 Future Improvements
 
-- ✏️ Edit existing tasks
-- 📅 Add deadlines to tasks
-- 🌙 Dark mode
-- 📱 Mobile responsive improvements
-- 🔔 Reminder notifications
+- ✏️ Edit existing tasks  
+- 📅 Add deadlines to tasks  
+- 🌙 Dark mode  
+- 📱 Mobile responsive improvements  
+- 🔔 Reminder notifications  
 
 ---
 
