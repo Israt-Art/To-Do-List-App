@@ -34,11 +34,10 @@ To-Do-App
 ├── style.css
 ├── script.js
 │
-└── images
-    ├── checked.png
-    ├── unchecked.png
-    └── todo-icon.png
-```
+└── screenshots
+    ├── ui.png
+    ├── add-task.png
+    └── completed.png
 
 
 ---
@@ -67,15 +66,13 @@ git clone https://github.com/Israt-Art/To-Do-List-App.git
 ## 📸 Screenshots
 
 ### 🖥️ App Interface
-![App UI](screenshots/ui.png)
+![App Interface](screenshots/ui.png)
 
-### ➕ Adding Tasks
+### ➕ Adding a Task
 ![Add Task](screenshots/add-task.png)
 
 ### ✅ Completed Task
 ![Completed Task](screenshots/completed.png)
-
----
 
 ## 📈 Future Improvements
 
